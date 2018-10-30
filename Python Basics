@@ -9,4 +9,5 @@ Creating a new python project and script:
 https://www.jetbrains.com/help/pycharm/creating-and-running-your-first-python-project.html
 
 Setting up version control:
-https://www.jetbrains.com/help/pycharm/enabling-version-control.html
+1) Git download link: https://git-scm.com/download/win
+2) Enabling version control for a project: https://www.jetbrains.com/help/pycharm/enabling-version-control.html

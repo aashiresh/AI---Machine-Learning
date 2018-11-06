@@ -1,4 +1,5 @@
 visualizing-high-dimensional-space, infinte drum machine. Both require t-sne
 AI Duet. Requires Tensorflow
 Simulating how normal and impaired auditory systems change through learning (e.g. practice)
+Auditory processing at the cognitive level requires multiple layers of inputs: outer ear--> middle--> inner--> BM-->auditory nerve--> inferior geniculate--> primary auditory cortex.  We can include each of these layers (or exclude some if we are not interested in it or it may not be of relevance to the research question) and then do a simple math problem such as: A*(Outer ear) + B*(Middle ear) + ... + G*(PAC), where A, B, ...G are beta values kind of like slope.  When you run the model you can get a sense of what is the ideal configuration (ideal parameters for each component) to obtain ideal cognitive functioning.  Then, you can start doing stuff like eliminating or gradually reducing availability of one component (to mimic impaired system).  For example, reduce B to 50% to exemplify a hearing loss.  What is the idea configuration, then, to get idea cognitive functioning?
 
